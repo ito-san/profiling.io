@@ -58,5 +58,5 @@ This tool runs `vmstat`, `iostat`, and  Intel VTune's memory access analysis at 
 ### :open_file_folder: Data to be generated
 
 Data will be stored in the directory with stored in the directory of <br>
-`YYYYMMDDhhmmss-operation` when rosbag_logging_mode is operation mode,<br>
-`YYYYMMDDhhmmss-always` when the mode is always mode.
+`YYYYMMDDhhmmss_operation` when rosbag_logging_mode is operation mode,<br>
+`YYYYMMDDhhmmss_always` when the mode is always mode.
